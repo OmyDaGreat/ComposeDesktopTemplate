@@ -6,7 +6,7 @@ maleficcomps = "2.0.1"
 malefictheme = "2.1.2"
 kotlinter = "5.4.2"
 compose = "1.10.0"
-kotlin = "2.3.0"
+kotlin = "2.3.10"
 composeHotReload = "1.1.0-alpha03"
 
 [libraries]
